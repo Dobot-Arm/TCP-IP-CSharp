@@ -6,7 +6,7 @@ English version of the README -> please [click here](./README-EN.md)
 3. 运行工程即可。
 
 ### 关于版本匹配说明
-1. 此Demo适用于CR系列的V3.5.2及以上控制器版本。
+1. 此Demo适用于CR系列与NOVA系列的V3.5.2及以上控制器版本。
 
 ### 关于端口的说明
 1. 30004 只接收实时反馈数据。
